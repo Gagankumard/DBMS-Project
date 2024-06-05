@@ -1,1 +1,1 @@
-# (Vehicle insurance)[]
+# Vehicle insurance
